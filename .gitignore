@@ -1,3 +1,5 @@
-setup/.run-image.sh
 uc
+.git
+secrets.json
+*~swp
 
